@@ -13,4 +13,5 @@ We believe that **every contribution counts**, no matter how small, and we are h
 - Open your terminal or command prompt.
 
 ### 3. Add code snippet in any programming language of your choice
+- Create a file by <your-name/usernname> and add your code snippet and push
 - Push the updated changes, we will happily merge it.
